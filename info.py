@@ -1,1 +1,1 @@
-print ("olá, bom dia!")
+print ("olá. Bom dia!")
